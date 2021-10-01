@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//210417019.github.io/1101-210417019-tododemo/static/css/main.ff5bf265.chunk.css",
+    "main.js": "//210417019.github.io/1101-210417019-tododemo/static/js/main.82c3c6ca.chunk.js",
+    "main.js.map": "//210417019.github.io/1101-210417019-tododemo/static/js/main.82c3c6ca.chunk.js.map",
+    "runtime-main.js": "//210417019.github.io/1101-210417019-tododemo/static/js/runtime-main.36e788be.js",
+    "runtime-main.js.map": "//210417019.github.io/1101-210417019-tododemo/static/js/runtime-main.36e788be.js.map",
+    "static/js/2.77a3386c.chunk.js": "//210417019.github.io/1101-210417019-tododemo/static/js/2.77a3386c.chunk.js",
+    "static/js/2.77a3386c.chunk.js.map": "//210417019.github.io/1101-210417019-tododemo/static/js/2.77a3386c.chunk.js.map",
+    "static/js/3.781cec85.chunk.js": "//210417019.github.io/1101-210417019-tododemo/static/js/3.781cec85.chunk.js",
+    "static/js/3.781cec85.chunk.js.map": "//210417019.github.io/1101-210417019-tododemo/static/js/3.781cec85.chunk.js.map",
+    "index.html": "//210417019.github.io/1101-210417019-tododemo/index.html",
+    "static/css/main.ff5bf265.chunk.css.map": "//210417019.github.io/1101-210417019-tododemo/static/css/main.ff5bf265.chunk.css.map",
+    "static/js/2.77a3386c.chunk.js.LICENSE.txt": "//210417019.github.io/1101-210417019-tododemo/static/js/2.77a3386c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e788be.js",
+    "static/js/2.77a3386c.chunk.js",
+    "static/css/main.ff5bf265.chunk.css",
+    "static/js/main.82c3c6ca.chunk.js"
+  ]
+}
